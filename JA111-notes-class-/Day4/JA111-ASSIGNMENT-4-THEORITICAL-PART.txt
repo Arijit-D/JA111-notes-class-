@@ -1,0 +1,21 @@
+
+
+Q1) Differentiate between static and non-static variables?
+
+Ans:-  The members where static ketword is applied is known as static member
+and the members on which static members is not applied is called non static
+members.
+
+     All the static members directly stored in RAM before execution and all 
+the non static members initially stored in the hard disk as a bytecode.
+
+    To get non static members in RAM we have to create object.When JVM  will
+encountered with new operator it will reserve some memory in heap area of RAM.
+
+
+
+
+
+
+
+ 
